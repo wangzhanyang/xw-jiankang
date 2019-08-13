@@ -25,7 +25,7 @@
         <module name="xw-product-provider" />
         <module name="xw-user-consumer" />
         <module name="xw-user-provider" />
-        <module name="xw-zipkin-service" />
+        <module name="xw-zinkin-service" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -49,6 +49,7 @@
       <module name="xw-product-provider" target="1.8" />
       <module name="xw-user-consumer" target="1.8" />
       <module name="xw-user-provider" target="1.8" />
+      <module name="xw-zinkin-service" target="1.8" />
       <module name="xw-zipkin-service" target="1.8" />
     </bytecodeTargetLevel>
   </component>

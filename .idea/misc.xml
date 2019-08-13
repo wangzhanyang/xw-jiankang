@@ -24,6 +24,7 @@
         <option value="$PROJECT_DIR$/xw-pay-consumer/pom.xml" />
         <option value="$PROJECT_DIR$/xw-eureka-service/pom.xml" />
         <option value="$PROJECT_DIR$/xw-zipkin-service/pom.xml" />
+        <option value="$PROJECT_DIR$/xw-zinkin-service/pom.xml" />
       </list>
     </option>
   </component>

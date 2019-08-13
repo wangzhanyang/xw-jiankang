@@ -22,7 +22,7 @@
       <module fileurl="file://$PROJECT_DIR$/xw-product-provider/xw-product-provider.iml" filepath="$PROJECT_DIR$/xw-product-provider/xw-product-provider.iml" />
       <module fileurl="file://$PROJECT_DIR$/xw-user-consumer/xw-user-consumer.iml" filepath="$PROJECT_DIR$/xw-user-consumer/xw-user-consumer.iml" />
       <module fileurl="file://$PROJECT_DIR$/xw-user-provider/xw-user-provider.iml" filepath="$PROJECT_DIR$/xw-user-provider/xw-user-provider.iml" />
-      <module fileurl="file://$PROJECT_DIR$/xw-zipkin-service/xw-zipkin-service.iml" filepath="$PROJECT_DIR$/xw-zipkin-service/xw-zipkin-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xw-zinkin-service/xw-zinkin-service.iml" filepath="$PROJECT_DIR$/xw-zinkin-service/xw-zinkin-service.iml" />
     </modules>
   </component>
 </project>
