@@ -37,7 +37,7 @@
         <module>xw-user-consumer</module>
         <module>xw-user-provider</module>
         <module>xw-eureka-service</module>
-        <module>xw-zipkin-service</module>
+        <module>xw-zinkin-service</module>
     </modules>
 
 
