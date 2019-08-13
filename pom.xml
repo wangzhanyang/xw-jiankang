@@ -38,6 +38,7 @@
         <module>xw-user-provider</module>
         <module>xw-eureka-service</module>
         <module>xw-zipkin-service</module>
+
     </modules>
 
 
