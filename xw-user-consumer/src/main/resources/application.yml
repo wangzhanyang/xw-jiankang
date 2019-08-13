@@ -1,0 +1,31 @@
+server:
+  port: 7100
+spring:
+  application:
+    name: xw-user-consumer
+  redis:
+    database: 0
+    host: 192.168.9.151
+    port: 6379
+    user: root
+    password: 123456
+    timeout: 3000
+  kafka:
+    producer:
+      retries: 0
+      #batch-size: 16384 # ÿ������������Ϣ������
+      bootstrap-servers: 192.168.9.151:9092
+      buffer-memory: 33554432
+      key-serializer: org.apache.kafka.common.serialization.StringSerializer # ָ����Ϣkey����Ϣ��ı���뷽ʽ
+      value-serializer: org.apache.kafka.common.serialization.StringSerializer #���
+    listener:
+      poll-timeout: 10000
+eureka:
+  client:
+    service-url:
+      defaultZone: http://root:123456@localhost:7776/eureka/
+moduleName: xw-user-consumer
+
+wechat:
+  appId: 
+  secret: 

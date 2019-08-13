@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+
+    <groupId>xw.jiankang</groupId>
+    <artifactId>xw-jiankang</artifactId>
+    <version>1.0</version>
+    <name>xw-jiankang</name>
+    <packaging>pom</packaging>
+    <description>Demo project for Spring Boot</description>
+
+    <parent>
+        <groupId>org.springframework.boot</groupId>
+        <artifactId>spring-boot-starter-parent</artifactId>
+        <version>1.5.6.RELEASE</version>
+        <relativePath/> <!-- lookup parent from repository -->
+    </parent>
+
+    <modules>
+        <module>xw-admin-web</module>
+        <module>xw-base-consumer</module>
+        <module>xw-base-provider</module>
+        <module>xw-common-client</module>
+        <module>xw-common-dao</module>
+        <module>xw-common-dto</module>
+        <module>xw-common-framework</module>
+        <module>xw-common-module</module>
+        <module>xw-common-util</module>
+        <module>xw-orders-consumer</module>
+        <module>xw-orders-provider</module>
+        <module>xw-pay-consumer</module>
+        <module>xw-pay-provider</module>
+        <module>xw-permissions-provider</module>
+        <module>xw-product-consumer</module>
+        <module>xw-product-provider</module>
+        <module>xw-user-consumer</module>
+        <module>xw-user-provider</module>
+        <module>xw-eureka-service</module>
+        <module>xw-zipkin-service</module>
+    </modules>
+
+
+
+
+
+</project>

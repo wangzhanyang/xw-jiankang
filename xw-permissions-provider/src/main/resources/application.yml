@@ -1,0 +1,22 @@
+spring:
+  datasource:
+    url: jdbc:mysql://localhost:3306/xw_system?useUnicode=true&characterEncoding=gbk&zeroDateTimeBehavior=convertToNull
+    username: root
+    password: root
+    driver-class-name: com.mysql.jdbc.Driver
+  application:
+    name: xw-permissinos-provider
+    sleuth:
+      sampler:
+      percentage: 1.0
+    zipkin:
+      base-url: http://127.0.0.1:7700
+eureka:
+  client:
+    service-url:
+      defaultZone: http://root:123456@localhost:7776/eureka/
+moduleName: xw-permissinos-provider
+server:
+  port: 7011
+mybatis:
+  mapper-locations: classpath:mapper/**/*Mapper.xml

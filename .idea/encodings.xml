@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/xw-admin-web" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/xw-base-consumer" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/xw-base-provider" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/xw-common-client" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/xw-common-dao" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/xw-common-dto" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/xw-common-framework" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/xw-common-module" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/xw-common-util" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/xw-eureka-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/xw-orders-consumer" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/xw-orders-provider" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/xw-pay-consumer" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/xw-pay-provider" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/xw-permissions-provider" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/xw-product-consumer" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/xw-product-provider" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/xw-user-consumer" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/xw-user-provider" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/xw-zipkin-service" charset="UTF-8" />
+  </component>
+</project>

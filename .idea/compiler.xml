@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="xw-admin-web" />
+        <module name="xw-base-consumer" />
+        <module name="xw-base-provider" />
+        <module name="xw-common-client" />
+        <module name="xw-common-dao" />
+        <module name="xw-common-dto" />
+        <module name="xw-common-framework" />
+        <module name="xw-common-module" />
+        <module name="xw-common-util" />
+        <module name="xw-eureka-service" />
+        <module name="xw-orders-consumer" />
+        <module name="xw-orders-provider" />
+        <module name="xw-pay-consumer" />
+        <module name="xw-pay-provider" />
+        <module name="xw-permissions-provider" />
+        <module name="xw-product-consumer" />
+        <module name="xw-product-provider" />
+        <module name="xw-user-consumer" />
+        <module name="xw-user-provider" />
+        <module name="xw-zipkin-service" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="xw-admin-web" target="1.8" />
+      <module name="xw-base-consumer" target="1.8" />
+      <module name="xw-base-provider" target="1.8" />
+      <module name="xw-common-client" target="1.6" />
+      <module name="xw-common-dao" target="1.8" />
+      <module name="xw-common-dto" target="1.8" />
+      <module name="xw-common-framework" target="1.8" />
+      <module name="xw-common-module" target="1.6" />
+      <module name="xw-common-util" target="1.8" />
+      <module name="xw-eureka-service" target="1.8" />
+      <module name="xw-jiankang" target="1.6" />
+      <module name="xw-orders-consumer" target="1.8" />
+      <module name="xw-orders-provider" target="1.8" />
+      <module name="xw-pay-consumer" target="1.8" />
+      <module name="xw-pay-provider" target="1.8" />
+      <module name="xw-permissions-provider" target="1.8" />
+      <module name="xw-product-consumer" target="1.8" />
+      <module name="xw-product-provider" target="1.8" />
+      <module name="xw-user-consumer" target="1.8" />
+      <module name="xw-user-provider" target="1.8" />
+      <module name="xw-zipkin-service" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

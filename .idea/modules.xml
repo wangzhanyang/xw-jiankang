@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/xw-admin-web/xw-admin-web.iml" filepath="$PROJECT_DIR$/xw-admin-web/xw-admin-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xw-base-consumer/xw-base-consumer.iml" filepath="$PROJECT_DIR$/xw-base-consumer/xw-base-consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xw-base-provider/xw-base-provider.iml" filepath="$PROJECT_DIR$/xw-base-provider/xw-base-provider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xw-common-client/xw-common-client.iml" filepath="$PROJECT_DIR$/xw-common-client/xw-common-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xw-common-dao/xw-common-dao.iml" filepath="$PROJECT_DIR$/xw-common-dao/xw-common-dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xw-common-dto/xw-common-dto.iml" filepath="$PROJECT_DIR$/xw-common-dto/xw-common-dto.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xw-common-framework/xw-common-framework.iml" filepath="$PROJECT_DIR$/xw-common-framework/xw-common-framework.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xw-common-module/xw-common-module.iml" filepath="$PROJECT_DIR$/xw-common-module/xw-common-module.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xw-common-util/xw-common-util.iml" filepath="$PROJECT_DIR$/xw-common-util/xw-common-util.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xw-eureka-service/xw-eureka-service.iml" filepath="$PROJECT_DIR$/xw-eureka-service/xw-eureka-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xw-jiankang.iml" filepath="$PROJECT_DIR$/xw-jiankang.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xw-orders-consumer/xw-orders-consumer.iml" filepath="$PROJECT_DIR$/xw-orders-consumer/xw-orders-consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xw-orders-provider/xw-orders-provider.iml" filepath="$PROJECT_DIR$/xw-orders-provider/xw-orders-provider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xw-pay-consumer/xw-pay-consumer.iml" filepath="$PROJECT_DIR$/xw-pay-consumer/xw-pay-consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xw-pay-provider/xw-pay-provider.iml" filepath="$PROJECT_DIR$/xw-pay-provider/xw-pay-provider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xw-permissions-provider/xw-permissions-provider.iml" filepath="$PROJECT_DIR$/xw-permissions-provider/xw-permissions-provider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xw-product-consumer/xw-product-consumer.iml" filepath="$PROJECT_DIR$/xw-product-consumer/xw-product-consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xw-product-provider/xw-product-provider.iml" filepath="$PROJECT_DIR$/xw-product-provider/xw-product-provider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xw-user-consumer/xw-user-consumer.iml" filepath="$PROJECT_DIR$/xw-user-consumer/xw-user-consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xw-user-provider/xw-user-provider.iml" filepath="$PROJECT_DIR$/xw-user-provider/xw-user-provider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xw-zipkin-service/xw-zipkin-service.iml" filepath="$PROJECT_DIR$/xw-zipkin-service/xw-zipkin-service.iml" />
+    </modules>
+  </component>
+</project>

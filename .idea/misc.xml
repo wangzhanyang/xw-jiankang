@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/xw-common-dao/pom.xml" />
+        <option value="$PROJECT_DIR$/xw-common-util/pom.xml" />
+        <option value="$PROJECT_DIR$/xw-common-client/pom.xml" />
+        <option value="$PROJECT_DIR$/xw-common-framework/pom.xml" />
+        <option value="$PROJECT_DIR$/xw-common-module/pom.xml" />
+        <option value="$PROJECT_DIR$/xw-common-dto/pom.xml" />
+        <option value="$PROJECT_DIR$/xw-permissions-provider/pom.xml" />
+        <option value="$PROJECT_DIR$/xw-admin-web/pom.xml" />
+        <option value="$PROJECT_DIR$/xw-base-provider/pom.xml" />
+        <option value="$PROJECT_DIR$/xw-base-consumer/pom.xml" />
+        <option value="$PROJECT_DIR$/xw-user-provider/pom.xml" />
+        <option value="$PROJECT_DIR$/xw-user-consumer/pom.xml" />
+        <option value="$PROJECT_DIR$/xw-product-provider/pom.xml" />
+        <option value="$PROJECT_DIR$/xw-product-consumer/pom.xml" />
+        <option value="$PROJECT_DIR$/xw-orders-provider/pom.xml" />
+        <option value="$PROJECT_DIR$/xw-orders-consumer/pom.xml" />
+        <option value="$PROJECT_DIR$/xw-pay-provider/pom.xml" />
+        <option value="$PROJECT_DIR$/xw-pay-consumer/pom.xml" />
+        <option value="$PROJECT_DIR$/xw-eureka-service/pom.xml" />
+        <option value="$PROJECT_DIR$/xw-zipkin-service/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
